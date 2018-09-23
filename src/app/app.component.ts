@@ -18,13 +18,13 @@ export class AppComponent {
   lat:number = -33.4550356;
   lng:number = -70.6687078;
 
-  personas:any = [
-      {age: 19, nombre: 'Jennifer'},
-      {age: 19, nombre: 'Axel'},
-      {age: 33, nombre: 'Richard'},
-      {age: 36, nombre: 'Mirna'},
-      {age: 15, nombre: 'Karla'},
-  ];
+personas:any = [
+  {age: 19, nombre: 'Jennifer'},
+  {age: 19, nombre: 'Axel'},
+  {age: 33, nombre: 'Richard'},
+  {age: 36, nombre: 'Mirna'},
+  {age: 15, nombre: 'Karla'},
+];
   constructor(){
   }
 
